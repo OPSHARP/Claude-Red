@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,28,18,8,0&height=220&section=header&text=Claude-Red&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%9B%A1%EF%B8%8F%20Curated%20Offensive%20Security%20%E2%80%A2%20Red-Team%20Attack%20Chain%20Skills&descAlignY=62&descAlign=50" width="100%" alt="Claude-Red 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/Claude-Red">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="95" height="95" alt="Claude-Red 3D Icon" />
@@ -26,7 +23,7 @@
 
 <div align="center">
 
-# claude-red
+  # claude-red
 
 **Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team operator.**
 
@@ -404,14 +401,10 @@ Contributions welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the skill temp
 
 <div align="center">
 
-*Give Claude the right skill and it stops being a chatbot — it becomes an operator.*
+  *Give Claude the right skill and it stops being a chatbot — it becomes an operator.*
 
 [snailsploit.com](https://snailsploit.com) &bull; [GitHub](https://github.com/SnailSploit) &bull; [Research](https://snailsploit.com/research) &bull; [X](https://x.com/SnailSploit)
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,28,18,8,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
